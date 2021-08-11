@@ -10,8 +10,9 @@ give it a try.
 
 
 ## Elasticsearch version
-* Currently designed for Elasticsearch 6.8.1
+* Currently designed for Elasticsearch 6.8.15
 * for Elasticsearch 7.1.0 use branch `es-7.1.0`
+* for Elasticsearch 6.8.1 use branch `es-6.8.1`
 * for Elasticsearch 5.6.9 use branch `master`
 * for Elasticsearch 5.2.2 use branch `es-5.2.2`
 * for Elasticsearch 2.4.4 use branch `es-2.4.4`
